@@ -2,7 +2,7 @@ Know Who is Bilal Ahmed?
 
 Hello Bilal Ahmed, 19 years old from Cheenab Nagar (Rabwah), a city in Punjab, Pakistan.
 
-CEO of OIO Solution, a newly established company focusing on web and desktop application solutions, with a vision for expanding into AI solutions.
+CEO of OIO Solution, a newly established company focusing on Fintech Startup with a vision for expanding into AI solutions.
 
 Skills
 I specialize in desktop development using Java and have a foundational understanding of C++.
